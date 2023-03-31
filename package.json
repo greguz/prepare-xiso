@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "split-xiso",
+  "version": "0.0.0",
+  "description": "Split Xbox ISO files",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xiso",
+    "xdvdfs",
+    "split",
+    "iso",
+    "xbox"
+  ],
+  "author": "Giacomo Gregoletto",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
